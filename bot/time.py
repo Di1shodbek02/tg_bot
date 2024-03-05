@@ -1,0 +1,2 @@
+HOUR = 10
+MINUTE = 48
